@@ -6,40 +6,40 @@ Veri bilimi, büyük veri kümelerinden anlamlı bilgiler çıkarabilme sürecid
 > Veri bilimine başlamadan önce, temel matematiksel ve istatistiksel kavramları bilmek gereklidir. Buı kavramlar Veri bilimi alanında başarılı olma konusunda önemli bir rol oynar.
 
 ### •	Veri Toplama ve Temizleme
-> Veri bilimi sürecinde ilk adım, verilerin toplanması ve temizlenmesidir. Bu adımda, verilerin doğruluğunu kontrol etmek, eksik veya hatalı verileri belirlemek ve gerekirse düzeltmek gerekir. Sürecin sağlıklı ilerleyebilmesi için bu ilk adım büyük önem taşır.
+> Veri bilimi sürecinde ilk adım, verilerin toplanması ve temizlenmesidir. Bu adımda, verilerin doğruluğunu kontrol etmek, eksik veya hatalı verileri belirlemek ve gerekirse düzeltmek gerekir. Sürecin sağlıklı ilerleyebilmesi için bu ilk adım büyük önem taşır.<br\><br\>
 [![](https://calendar.duke.edu/images//2023/20230324/3f321a7404a1298aec0c4d32c66d666e-CR-data-collection_20230104042413PM.jpg)](https://calendar.duke.edu/images//2023/20230324/3f321a7404a1298aec0c4d32c66d666e-CR-data-collection_20230104042413PM.jpg)
 
 ### •	Veri Keşfi ve Görselleştirme
-> Veri keşfi, verilerdeki trendleri ve desenleri belirlemek için kullanılan bir süreçtir. Bu adımda, verilerin özellikleri analiz edilir ve verilerin anlaşılması için grafikler ve tablolar kullanılır. İşte bu kısımda iyi bir keşif yapmak istiyorsanız istatistik bilginiz size çok yardımcı olacaktır. 
+> Veri keşfi, verilerdeki trendleri ve desenleri belirlemek için kullanılan bir süreçtir. Bu adımda, verilerin özellikleri analiz edilir ve verilerin anlaşılması için grafikler ve tablolar kullanılır. İşte bu kısımda iyi bir keşif yapmak istiyorsanız istatistik bilginiz size çok yardımcı olacaktır. <br\><br\>
 [![](https://lh3.googleusercontent.com/eI8BBCh2W8xKqV4gU4KZuF9iYDsCwFy9o232A8a0ndfgPCrY_jDHB5TR4iah12bLCwvNrjYegEf0MvkB2Zc9eSKbNt-Xvvqo_i6k6Y4)](https://lh3.googleusercontent.com/eI8BBCh2W8xKqV4gU4KZuF9iYDsCwFy9o232A8a0ndfgPCrY_jDHB5TR4iah12bLCwvNrjYegEf0MvkB2Zc9eSKbNt-Xvvqo_i6k6Y4)
 
 ### •	Veri Ön İşleme ve Özellik Mühendisliği
-> Verilerin doğru şekilde işlenebilmesi ve makine öğrenimi modellerine uygun hale getirilmesi için veri ön işleme ve özellik mühendisliği işlemleri yapılmalıdır. Bu adımda, veriler normalleştirilir, makinenin anlayacağı bir hale dönüştürülür, özellikler seçilir ve özellikler oluşturulur.
+> Verilerin doğru şekilde işlenebilmesi ve makine öğrenimi modellerine uygun hale getirilmesi için veri ön işleme ve özellik mühendisliği işlemleri yapılmalıdır. Bu adımda, veriler normalleştirilir, makinenin anlayacağı bir hale dönüştürülür, özellikler seçilir ve özellikler oluşturulur.<br\><br\>
 [![](https://lh3.googleusercontent.com/O2QEdYT3Y8DXsCqoM77Qc8EM39TayvVsOpsG8McHJx1bvf6weIoB32kyJw3Z1y-6xnacH7ZbjRyS0iw4Zs722lvBwatbjPUzaJsnGB4)](https://lh3.googleusercontent.com/O2QEdYT3Y8DXsCqoM77Qc8EM39TayvVsOpsG8McHJx1bvf6weIoB32kyJw3Z1y-6xnacH7ZbjRyS0iw4Zs722lvBwatbjPUzaJsnGB4)
 
 ### •	Makine Öğrenimi
-> Makine öğrenimi, verilerden anlamlı bilgiler çıkarabilen bir yapay zeka teknolojisidir. Makine öğrenimi algoritmaları, öğrenme sürecinde geçmişteki verileri kullanarak modeli oluşturur ve bu modeli kullanarak ileriye dönük tahminler yapabilir. Bu adımda, öğrenme algoritmaları, sınıflandırma, regresyon, kümeleme gibi farklı problemler için uygulanır.
+> Makine öğrenimi, verilerden anlamlı bilgiler çıkarabilen bir yapay zeka teknolojisidir. Makine öğrenimi algoritmaları, öğrenme sürecinde geçmişteki verileri kullanarak modeli oluşturur ve bu modeli kullanarak ileriye dönük tahminler yapabilir. Bu adımda, öğrenme algoritmaları, sınıflandırma, regresyon, kümeleme gibi farklı problemler için uygulanır.<br\><br\>
 [![](https://lh3.googleusercontent.com/__hWDeaELPkEfj-veCHieRpl1kjg0Sjy9lPKWz-csB1n6yXu5jIRXcWJZQyo5ULcbTj8s3VBQbwlK6H-HmN_30VnnXFmQuNX1MSylDjJCA)](https://lh3.googleusercontent.com/__hWDeaELPkEfj-veCHieRpl1kjg0Sjy9lPKWz-csB1n6yXu5jIRXcWJZQyo5ULcbTj8s3VBQbwlK6H-HmN_30VnnXFmQuNX1MSylDjJCA)
 
 ### •	Model Optimizasyonu 
-> Makine öğrenimi modeli oluşturulduktan sonra, modelin doğruluğunu ve performansını artırmak için optimizasyon işlemleri yapılır. Bu adımda, hiper parametreler ayarlanır, modelin aşırı öğrenmesi önlenir ve modelin doğruluğu artırılır. Ayrıca, modelin farklı veri kümesi boyutlarına uyum sağlaması, farklı veri türleriyle başa çıkabilmesi ve diğer uygulama gereksinimlerine uygun olması için modelde düzenlemeler yapılır.
+> Makine öğrenimi modeli oluşturulduktan sonra, modelin doğruluğunu ve performansını artırmak için optimizasyon işlemleri yapılır. Bu adımda, hiper parametreler ayarlanır, modelin aşırı öğrenmesi önlenir ve modelin doğruluğu artırılır. Ayrıca, modelin farklı veri kümesi boyutlarına uyum sağlaması, farklı veri türleriyle başa çıkabilmesi ve diğer uygulama gereksinimlerine uygun olması için modelde düzenlemeler yapılır.<br\><br\>
 [![](https://lh3.googleusercontent.com/rFKPCrzkJpxip9LyCPFF1y4_xHq0DMTBM6jB2mp304mHxL5tRu72QtcZlZ6jyjWdItTZ11UJ2Kdw_-5FaVPZDykNx0zM6zT9v3BzPZyc)](https://lh3.googleusercontent.com/rFKPCrzkJpxip9LyCPFF1y4_xHq0DMTBM6jB2mp304mHxL5tRu72QtcZlZ6jyjWdItTZ11UJ2Kdw_-5FaVPZDykNx0zM6zT9v3BzPZyc)
 
 ### •	Model Değerlendirme
-> Makine öğrenimi modellerinin doğruluğunu değerlendirmek için, modelin performansını ölçmek ve karşılaştırmak için farklı metrikler kullanılır. Bu adımda, modelin başarısı test edilir ve hataların nedenleri analiz edilir. Bu adımda, farklı veri setleri kullanılarak çapraz doğrulama yapılır ve modelin performansı iyileştirilmeye çalışılır.
+> Makine öğrenimi modellerinin doğruluğunu değerlendirmek için, modelin performansını ölçmek ve karşılaştırmak için farklı metrikler kullanılır. Bu adımda, modelin başarısı test edilir ve hataların nedenleri analiz edilir. Bu adımda, farklı veri setleri kullanılarak çapraz doğrulama yapılır ve modelin performansı iyileştirilmeye çalışılır.<br\><br\>
 [![](https://lh3.googleusercontent.com/knL5ocYHDnaMB-6zAnGTp_peq6QZyj4nH6IBsEXNbUXuDp9ExN9hVbjVYSgukrz1tEqbafz2HKthiDnMG8j0OWIUuisoNhE512986bAltQ)](https://lh3.googleusercontent.com/knL5ocYHDnaMB-6zAnGTp_peq6QZyj4nH6IBsEXNbUXuDp9ExN9hVbjVYSgukrz1tEqbafz2HKthiDnMG8j0OWIUuisoNhE512986bAltQ)
 
 ### •	Model Dağıtımı
-> Makine öğrenimi modeli oluşturulduktan ve optimize edildikten sonra, modelin dağıtılması ve kullanılması gereklidir. Bu adımda, modelin belirli bir uygulamaya göre entegrasyonu, modelin servis haline getirilmesi, modelin performansının izlenmesi ve güncellenmesi sağlanır.
+> Makine öğrenimi modeli oluşturulduktan ve optimize edildikten sonra, modelin dağıtılması ve kullanılması gereklidir. Bu adımda, modelin belirli bir uygulamaya göre entegrasyonu, modelin servis haline getirilmesi, modelin performansının izlenmesi ve güncellenmesi sağlanır.<br\><br\>
 [![](https://lh3.googleusercontent.com/ZGloSA-uhswxnhB3I-rsAdN8E0asTXhgxREfgu5z1kRi24BjpsPHjXXuzjxwJGdTKLvkO_x1O4mLlehyQErzpbN-ytDooxwBwxiR3ScN)](https://lh3.googleusercontent.com/ZGloSA-uhswxnhB3I-rsAdN8E0asTXhgxREfgu5z1kRi24BjpsPHjXXuzjxwJGdTKLvkO_x1O4mLlehyQErzpbN-ytDooxwBwxiR3ScN)
 
 ### •	Büyük Veri İşleme
-> Büyük veri işleme, veri bilimi sürecinde önemli bir adımdır. Verilerin büyüklüğü, çeşitliliği ve hızı, geleneksel veri işleme tekniklerinin yetersiz kalmasına neden olabilir. Büyük veri işleme teknolojileri, veri işleme sürecinde büyük veri kümelerini hızlı ve verimli bir şekilde işlemek için kullanılır.
+> Büyük veri işleme, veri bilimi sürecinde önemli bir adımdır. Verilerin büyüklüğü, çeşitliliği ve hızı, geleneksel veri işleme tekniklerinin yetersiz kalmasına neden olabilir. Büyük veri işleme teknolojileri, veri işleme sürecinde büyük veri kümelerini hızlı ve verimli bir şekilde işlemek için kullanılır.<br\><br\>
 [![](https://lh3.googleusercontent.com/Ri1e5fRHIdI85EaW2WgZHGv9Cf7bV15nHcza4SHsBoBF5ZzUOAEddlCPKni2jrvAreQYWZYflKx8UrCj2Nof92VJKEDqvaD2xNvnSFgx)](https://lh3.googleusercontent.com/Ri1e5fRHIdI85EaW2WgZHGv9Cf7bV15nHcza4SHsBoBF5ZzUOAEddlCPKni2jrvAreQYWZYflKx8UrCj2Nof92VJKEDqvaD2xNvnSFgx)
 
 
 ### •	Yapay Zeka Uygulamaları
-> Veri bilimi ve makine öğrenimi teknikleri, yapay zeka uygulamalarında kullanılır. Yapay zeka, insan benzeri zekaya sahip olabilen bir bilgisayar sistemidir. Yapay zeka teknolojileri, görüntü işleme, doğal dil işleme, otomatik öğrenme ve özerk sistemler gibi birçok farklı uygulama alanında kullanılır.
+> Veri bilimi ve makine öğrenimi teknikleri, yapay zeka uygulamalarında kullanılır. Yapay zeka, insan benzeri zekaya sahip olabilen bir bilgisayar sistemidir. Yapay zeka teknolojileri, görüntü işleme, doğal dil işleme, otomatik öğrenme ve özerk sistemler gibi birçok farklı uygulama alanında kullanılır.<br\><br\>
 [![](https://lh3.googleusercontent.com/nO2LHBZigCb8JfTn3kCF_WG7gUAp6QubcEGWPS5bbppaCp2vCn7FXF7-XyFQ5XzrFgvFRRqlVaccTUFtHn5R7_cuUAREBfVDxsS_y6I)](https://lh3.googleusercontent.com/nO2LHBZigCb8JfTn3kCF_WG7gUAp6QubcEGWPS5bbppaCp2vCn7FXF7-XyFQ5XzrFgvFRRqlVaccTUFtHn5R7_cuUAREBfVDxsS_y6I)
 
 
