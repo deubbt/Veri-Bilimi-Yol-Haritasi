@@ -7,10 +7,12 @@ Veri bilimi, büyük veri kümelerinden anlamlı bilgiler çıkarabilme sürecid
 
 ### •	Veri Toplama ve Temizleme
 > Veri bilimi sürecinde ilk adım, verilerin toplanması ve temizlenmesidir. Bu adımda, verilerin doğruluğunu kontrol etmek, eksik veya hatalı verileri belirlemek ve gerekirse düzeltmek gerekir. Sürecin sağlıklı ilerleyebilmesi için bu ilk adım büyük önem taşır.
+
 > [![](https://calendar.duke.edu/images//2023/20230324/3f321a7404a1298aec0c4d32c66d666e-CR-data-collection_20230104042413PM.jpg)](https://calendar.duke.edu/images//2023/20230324/3f321a7404a1298aec0c4d32c66d666e-CR-data-collection_20230104042413PM.jpg)
 
 ### •	Veri Keşfi ve Görselleştirme
 > Veri keşfi, verilerdeki trendleri ve desenleri belirlemek için kullanılan bir süreçtir. Bu adımda, verilerin özellikleri analiz edilir ve verilerin anlaşılması için grafikler ve tablolar kullanılır. İşte bu kısımda iyi bir keşif yapmak istiyorsanız istatistik bilginiz size çok yardımcı olacaktır.
+
 > [![](https://lh3.googleusercontent.com/eI8BBCh2W8xKqV4gU4KZuF9iYDsCwFy9o232A8a0ndfgPCrY_jDHB5TR4iah12bLCwvNrjYegEf0MvkB2Zc9eSKbNt-Xvvqo_i6k6Y4)](https://lh3.googleusercontent.com/eI8BBCh2W8xKqV4gU4KZuF9iYDsCwFy9o232A8a0ndfgPCrY_jDHB5TR4iah12bLCwvNrjYegEf0MvkB2Zc9eSKbNt-Xvvqo_i6k6Y4)
 
 ### •	Veri Ön İşleme ve Özellik Mühendisliği
