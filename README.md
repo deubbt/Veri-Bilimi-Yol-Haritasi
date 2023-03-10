@@ -50,7 +50,7 @@ Veri bilimi verilerin toplanmasından, temizlenmesine, analiz edilmesine, makine
 [![](https://lh3.googleusercontent.com/H9uwoT5CvQ-t7SLI-9RsxyhhI6vLP4A9OhF2h3Hj3qg_eX0EUbBBcAtsRtP_SakCbJj32WMcfMCBqEWHBwfmgChNk0RCpTr_fXB2u4yL)](https://lh3.googleusercontent.com/H9uwoT5CvQ-t7SLI-9RsxyhhI6vLP4A9OhF2h3Hj3qg_eX0EUbBBcAtsRtP_SakCbJj32WMcfMCBqEWHBwfmgChNk0RCpTr_fXB2u4yL)
 
 ## TAVSİYE KAYNAKLAR
-  •	Sheldon M. Ross Introduction to Probability and Statistics for Engineers and Scientists
+  •	Sheldon M. Ross Introduction to Probability and Statistics for Engineers and Scientists <br/>
   •	Yapay Öğrenme (Ethem Alpaydın)
   •	Panel Zaman Serileri Analizi (Prof. Dr. Ferda Yerdelen Tatoğlu)
   •	Yapay Zeka Uygulumaları (Prof. Dr. Çetin Elmas)
