@@ -50,15 +50,15 @@ Veri bilimi verilerin toplanmasından, temizlenmesine, analiz edilmesine, makine
 [![](https://lh3.googleusercontent.com/H9uwoT5CvQ-t7SLI-9RsxyhhI6vLP4A9OhF2h3Hj3qg_eX0EUbBBcAtsRtP_SakCbJj32WMcfMCBqEWHBwfmgChNk0RCpTr_fXB2u4yL)](https://lh3.googleusercontent.com/H9uwoT5CvQ-t7SLI-9RsxyhhI6vLP4A9OhF2h3Hj3qg_eX0EUbBBcAtsRtP_SakCbJj32WMcfMCBqEWHBwfmgChNk0RCpTr_fXB2u4yL)
 
 ## TAVSİYE KAYNAKLAR
-  •	Sheldon M. Ross Introduction to Probability and Statistics for Engineers and Scientists <br/>
-  •	Yapay Öğrenme (Ethem Alpaydın)
-  •	Panel Zaman Serileri Analizi (Prof. Dr. Ferda Yerdelen Tatoğlu)
-  •	Yapay Zeka Uygulumaları (Prof. Dr. Çetin Elmas)
-  •	Bulanık Küme Teorisi (Turan Paksoy)
-  •	Python ile Makine Öğrenmesi (Doç. Dr. Engin Sorhun)
-  •	Python ile Veri Bilimi (Dr. İlker Arslan)
-  •	Uygulamalarla Veri Bilimi (Doç. Dr. Deniz Kılınç)
-  •	https://github.com/microsoft/Data-Science-For-Beginners (Python ile örnek uygulamalar)
-  •	https://github.com/dair-ai/ML-YouTube-Courses (Makine Öğrenimi/Derin Öğrenme/Doğal Dil İşleme/Pekiştirmeli Öğrenme/Bilgisayarlı Görü gibi konuların teori kısımları için çeşitli videolar)
-  •	https://i.am.ai/roadmap/#introduction (Detaylı bir Veri Bilimi Yol Haritası)
 
+>•	Sheldon M. Ross Introduction to Probability and Statistics for Engineers and Scientists <br/>
+•	Yapay Öğrenme (Ethem Alpaydın)<br/>
+•	Panel Zaman Serileri Analizi (Prof. Dr. Ferda Yerdelen Tatoğlu)<br/>
+•	Yapay Zeka Uygulumaları (Prof. Dr. Çetin Elmas)<br/>
+•	Bulanık Küme Teorisi (Turan Paksoy)<br/>
+•	Python ile Makine Öğrenmesi (Doç. Dr. Engin Sorhun)<br/>
+•	Python ile Veri Bilimi (Dr. İlker Arslan)<br/>
+•	Uygulamalarla Veri Bilimi (Doç. Dr. Deniz Kılınç)<br/>
+•	https://github.com/microsoft/Data-Science-For-Beginners (Python ile örnek uygulamalar)<br/>
+•	https://github.com/dair-ai/ML-YouTube-Courses (Makine Öğrenimi/Derin Öğrenme/Doğal Dil İşleme/Pekiştirmeli Öğrenme/Bilgisayarlı Görü gibi konuların teori kısımları için çeşitli videolar)<br/>
+•	https://i.am.ai/roadmap/#introduction (Detaylı bir Veri Bilimi Yol Haritası)<br/>
