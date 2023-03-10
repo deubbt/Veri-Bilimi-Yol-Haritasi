@@ -51,9 +51,9 @@ Veri bilimi, büyük veri kümelerinden anlamlı bilgiler çıkarabilme sürecid
 > 
 [![](https://lh3.googleusercontent.com/nO2LHBZigCb8JfTn3kCF_WG7gUAp6QubcEGWPS5bbppaCp2vCn7FXF7-XyFQ5XzrFgvFRRqlVaccTUFtHn5R7_cuUAREBfVDxsS_y6I)](https://lh3.googleusercontent.com/nO2LHBZigCb8JfTn3kCF_WG7gUAp6QubcEGWPS5bbppaCp2vCn7FXF7-XyFQ5XzrFgvFRRqlVaccTUFtHn5R7_cuUAREBfVDxsS_y6I)
 
-
+>
 Bu adımlar veri bilimi projelerinin planlanması ve yürütülmesi için bir rehber sağlar ve haritası, veri bilimi projelerinin etkin bir şekilde yönetilmesini ve verilerden en iyi şekilde yararlanılmasını sağlar. Ancak, her veri bilimi projesi kendine özgüdür ve projenin gereksinimlerine göre farklı bir yaklaşım gerektirebilir. Bu nedenle, bu adımlar bir çerçeve olarak kullanılabilir ve projelerin spesifik gereksinimlerine uyarlanabilir. Veri bilimi, günümüzde büyük bir öneme sahiptir ve birçok farklı uygulama alanında kullanılmaktadır. Bu nedenle, veri bilimi projeleri ve uygulamaları, işletmeler için değerli bilgiler sağlayabilir ve karar verme süreçlerinde kritik bir rol oynayabilir.
-
+>
 Veri bilimi verilerin toplanmasından, temizlenmesine, analiz edilmesine, makine öğrenimi modellerinin oluşturulmasına ve uygulanmasına kadar birçok farklı adım içerir. Bu adımların her biri, veri bilimi sürecinin farklı bir aşamasını temsil eder ve verilerden elde edilen bilgilerin işlenmesi, analiz edilmesi, anlamlı sonuçlar çıkarılması ve uygulanabilir hale getirilmesi için gereklidir. Bu süreç, veri bilimi ile ilgili birçok farklı uygulama alanında kullanılır, örneğin finans, sağlık, perakende, ulaşım vs. 
 
 [![](https://lh3.googleusercontent.com/H9uwoT5CvQ-t7SLI-9RsxyhhI6vLP4A9OhF2h3Hj3qg_eX0EUbBBcAtsRtP_SakCbJj32WMcfMCBqEWHBwfmgChNk0RCpTr_fXB2u4yL)](https://lh3.googleusercontent.com/H9uwoT5CvQ-t7SLI-9RsxyhhI6vLP4A9OhF2h3Hj3qg_eX0EUbBBcAtsRtP_SakCbJj32WMcfMCBqEWHBwfmgChNk0RCpTr_fXB2u4yL)
