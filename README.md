@@ -71,3 +71,35 @@ Veri bilimi verilerin toplanmasından, temizlenmesine, analiz edilmesine, makine
 •	https://github.com/microsoft/Data-Science-For-Beginners (Python ile örnek uygulamalar)<br/>
 •	https://github.com/dair-ai/ML-YouTube-Courses (Makine Öğrenimi/Derin Öğrenme/Doğal Dil İşleme/Pekiştirmeli Öğrenme/Bilgisayarlı Görü gibi konuların teori kısımları için çeşitli videolar)<br/>
 •	https://i.am.ai/roadmap/#introduction (Detaylı bir Veri Bilimi Yol Haritası)<br/>
+
+## Video Kaynaklar (Öğrenme Sırasına Göre)
+- [Veri Bilimcinin Galaksi Rehberi](https://www.youtube.com/watch?v=KRoAbNaOoEk) - [Mert Çobanov](https://www.youtube.com/@mertcobanov)
+- [Makine Öğrenmesi (Machine Learning) Hakkında](https://www.youtube.com/watch?v=oQDeVVTzVPA) - [Pisagor Okulu](https://www.youtube.com/@PisagorOkulu)
+- [Olasılık ve İstatistik (Probability and Statistics)](https://www.youtube.com/playlist?list=PLcNWqzWzYG2ufnZbJYffUkgYkhh3kS44L) - [BUders Boğaziçiliden Özel Ders](https://www.youtube.com/@Buders)
+- [Yeni Başlayanlar İçin Python Dersleri 2019](https://www.youtube.com/playlist?list=PL-Hkw4CrSVq9Y_RP7Q9Kn-bgZvVdl1cBy) - [Arin Yazılım](https://www.youtube.com/@ArinYazilim)
+- [12 Beginner Python Projects - Coding Course](https://www.youtube.com/watch?v=8ext9G7xspg) - [freeCodeCamp.org](https://www.youtube.com/@freecodecamp)
+- [1 Videoda Numpy](https://www.youtube.com/watch?v=PkI3HgqiiMo) - [Buse Yaren Tekin](https://www.youtube.com/@BuseYaren)
+- [Yeni Başlayanlar İçin NumPy](https://www.youtube.com/playlist?list=PL-Hkw4CrSVq-WIFsfLJkDASz2YgGJg5Nt) - [Arin Yazılım](https://www.youtube.com/@ArinYazilim)
+- [NumPy](https://www.youtube.com/playlist?list=PLRRY18KNZTgVBuQPSbjHWMEshKaXVsqKU) - [Makine Öğrenmesi](https://www.youtube.com/@MakineOgrenmesi)
+- [1 Videoda Pandas](https://www.youtube.com/watch?v=FAUZJC1CyGo) - [Buse Yaren Tekin](https://www.youtube.com/@BuseYaren)
+- [Yeni Başlayanlar İçin Pandas İle Veri Analizi](https://www.youtube.com/playlist?list=PL-Hkw4CrSVq-qwoZJKGXdYoGYQseJoPR2) - [Arin Yazılım](https://www.youtube.com/@ArinYazilim)
+- [Pandas](https://www.youtube.com/playlist?list=PLRRY18KNZTgUNSjGGDjLBQJR1o16cD0Ci) - [Makine Öğrenmesi](https://www.youtube.com/@MakineOgrenmesi)
+- [AI Logs | Python Kampı](https://www.youtube.com/playlist?list=PLWRi-ef3zHbGAukYYuXzFNKRDjMxAKtGM) - [GDG Cloud Bursa](https://www.youtube.com/@GDGCloudBursa)
+- [Data Analysis with Python - Full Course for Beginners (Numpy, Pandas, Matplotlib, Seaborn)](https://www.youtube.com/watch?v=r-uOLxNrNk8) - [freeCodeCamp.org](https://www.youtube.com/@freecodecamp)
+- [AI Summer Camp](https://www.youtube.com/playlist?list=PLZj2Q42tw-6_oTfZ_Vjc6b00Lwgw1JS8K) - [Google Developer Communities Turkey](https://www.youtube.com/@GoogleDevelopersTurkey)
+- [Keras ile Derin Öğrenme](https://www.youtube.com/playlist?list=PLRRY18KNZTgUyaxSRvExF7zNsIpaehl5e) - [Makine Öğrenmesi](https://www.youtube.com/@MakineOgrenmesi)
+- [Keras with TensorFlow Course - Python Deep Learning and Neural Networks for Beginners Tutorial](https://www.youtube.com/watch?v=qFJeN9V1ZsI) - [freeCodeCamp.org](https://www.youtube.com/@freecodecamp)
+- [Machine Learning Course for Beginners](https://www.youtube.com/watch?v=NWONeJKn6kc) - [freeCodeCamp.org](https://www.youtube.com/@freecodecamp)
+- [AI Logs | Tensorflow Kampı](https://www.youtube.com/playlist?list=PLWRi-ef3zHbGzvfXZP0-AZNBssXU2bdIz) - [GDG Cloud Bursa](https://www.youtube.com/@GDGCloudBursa)
+- [TensorFlow Karma Eğitim](https://www.youtube.com/playlist?list=PLrWGe5fM0LZ4utCCJuwxb1i43uXSmSGpa) - [Mehmet Ali BAYRAM](https://www.youtube.com/@MehmetAliBayram)
+- [TensorFlow 2.0 Complete Course - Python Neural Networks for Beginners Tutorial](https://www.youtube.com/watch?v=tPYj3fFJGjk) - [freeCodeCamp.org](https://www.youtube.com/@freecodecamp)
+- [Yapay Öğrenme İçin Matematik](https://www.youtube.com/playlist?list=PL-VAZnoQqQ4W3kxCI4At6flbG72k8mHVG) - [Nesin Matematik Köyü](https://www.youtube.com/@NesinMatematikKoyuResmi)
+- [TEK VİDEODA SAYISAL GÖRÜNTÜ İŞLEME MANTIĞINI ÖĞRENİN TÜM YÖNLERİYLE GÖRÜNTÜ İŞLEME DERSİ](https://www.youtube.com/watch?v=Q7WGimJfNxU)
+- [OpenCV ve Python Görüntü İşlemeye Giriş | Vusal Ismayilov](https://www.youtube.com/watch?v=ytsvnQpyFZg) - [Mert Çobanov (Türkiye Geliştirici Eğitimleri Arşivi)](https://www.youtube.com/playlist?list=PLk54I7lqQSsbpShjcv3upA5LwMqyV9p27)
+- [Yolov4 ile Custom Datasetlerde Nesne Tespiti ve Takibi | Yaşar Niyazoğlu](https://www.youtube.com/watch?v=EelhQY0LRIw) - [Mert Çobanov (Türkiye Geliştirici Eğitimleri Arşivi)](https://www.youtube.com/playlist?list=PLk54I7lqQSsbpShjcv3upA5LwMqyV9p27)
+- [Python Keras Tensorflow ile Derin Öğrenme ve Sıfırdan Proje Geliştirme | Buse Yaren Tekin](https://www.youtube.com/watch?v=qpEybki4G7A) - [Mert Çobanov (Türkiye Geliştirici Eğitimleri Arşivi)](https://www.youtube.com/playlist?list=PLk54I7lqQSsbpShjcv3upA5LwMqyV9p27)
+- [Python Tensorflow ile Görüntü Segmentasyonu | İrem Kömürcü](https://www.youtube.com/watch?v=aUHoDeo3DFg) - [Mert Çobanov (Türkiye Geliştirici Eğitimleri Arşivi)](https://www.youtube.com/playlist?list=PLk54I7lqQSsbpShjcv3upA5LwMqyV9p27)
+
+## Ücretli Kaynaklar
+- [(50 Saat) Python A-Z™: Veri Bilimi ve Machine Learning](https://www.udemy.com/course/python-egitimi/) - [Veri Bilimi Okulu](https://www.udemy.com/user/veri-bilimi-okulu/)
+- [Python ile Makine Öğrenmesi](https://www.udemy.com/course/makine-ogrenmesi/) - [Prof. Dr. Şadi Evren Şeker](https://www.udemy.com/user/sadievrenseker/) (Ücretsiz hali için [BTK Akademi](https://www.btkakademi.gov.tr/portal/course/python-ile-makine-oegrenmesi-11800))
