@@ -68,6 +68,7 @@ Veri bilimi verilerin toplanmasından, temizlenmesine, analiz edilmesine, makine
 •	Python ile Makine Öğrenmesi (Doç. Dr. Engin Sorhun)<br/>
 •	Python ile Veri Bilimi (Dr. İlker Arslan)<br/>
 •	Uygulamalarla Veri Bilimi (Doç. Dr. Deniz Kılınç)<br/>
+•	https://github.com/deubbt/SQL-Cheatsheet<br/>
 •	https://github.com/microsoft/Data-Science-For-Beginners (Python ile örnek uygulamalar)<br/>
 •	https://github.com/dair-ai/ML-YouTube-Courses (Makine Öğrenimi/Derin Öğrenme/Doğal Dil İşleme/Pekiştirmeli Öğrenme/Bilgisayarlı Görü gibi konuların teori kısımları için çeşitli videolar)<br/>
 •	https://i.am.ai/roadmap/#introduction (Detaylı bir Veri Bilimi Yol Haritası)<br/>
